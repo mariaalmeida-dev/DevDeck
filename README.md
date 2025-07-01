@@ -36,3 +36,14 @@ git clone https://github.com/your-username/devdeck.git
 cd devdeck
 npm install
 npm run dev
+
+## 📁 Project Structure
+.
+├── app/              # Next.js app directory (pages, layouts)
+├── components/       # Reusable UI components
+├── features/         # Domain-specific features (e.g. resources)
+├── hooks/            # Custom React hooks
+├── lib/              # Utility functions and helpers
+├── styles/           # Global and shared Tailwind styles
+├── tests/            # Unit & integration tests (coming)
+└── public/           # Static assets
