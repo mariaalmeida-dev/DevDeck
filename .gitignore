@@ -1,36 +1,17 @@
-# Node.js
+# dependencies
 node_modules
+.pnpm
+
+# builds
+.next
+out
+dist
+
+# logs
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+pnpm-debug.log*
 
-# Next.js
-.next/
-out/
-dist/
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Logs
-logs
-*.log
-*.log.*
-
-# OS
+# system
 .DS_Store
-Thumbs.db
-
-# Testing
-coverage/
-.vitest/
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Others
-*.tsbuildinfo
+.env.local
+.env*
