@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "TypeScript Handbook",
+    "description": "Official documentation for TypeScript.",
+    "url": "https://www.typescriptlang.org/docs/"
+  },
+  {
+    "id": "2",
+    "title": "React Docs",
+    "description": "Comprehensive guide to React.",
+    "url": "https://reactjs.org/docs/getting-started.html"
+  }
+]
